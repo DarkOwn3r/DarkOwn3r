@@ -1,5 +1,5 @@
 <a>
-  <img src="https://rezmason.github.io/matrix/"/>
+  <img src="https://rezmason.github.io/matrix/](https://raw.githubusercontent.com/Rezmason/matrix/master/screenshot.png"/>
 </a>
 ### Hi there 👋
 
