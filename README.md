@@ -1,4 +1,4 @@
-<img src="/DarkOwn3r/DarkOwn3r/raw/main/screenshot.png?raw=true"/>
+<img src="https://github.com/DarkOwn3r/DarkOwn3r/blob/main/screenshot.png?raw=true"/>
 
 ### Hi there 👋
 
