@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,ps,pr,figma,windows,ubuntu,debian,bash,codepen,html,css,js,ts,react,py,nodejs,vim,vscode,idea,jest,md,npm,pnpm,netlify,express,mysql,postman,sequelize,vite,vitest,git,github&theme=dark&perline=16" />
+    <img src="https://skillicons.dev/icons?i=ableton,ps,pr,figma,windows,ubuntu,debian,bash,codepen,html,css,js,ts,react,py,php,laravel,nodejs,vim,vscode,idea,replit,jest,md,npm,pnpm,netlify,express,mysql,postman,sequelize,vite,vitest,git,github,notion&theme=dark&perline=18" />
   </a>
 </p>
 
